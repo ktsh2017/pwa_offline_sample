@@ -1,0 +1,13 @@
+{
+  "name": "flowerbook",
+  "short_name": "FB",
+  "icons": [{
+        "src": "logo/logo192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#3E4EB8",
+  "theme_color": "#2F3BA2"
+}
